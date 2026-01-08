@@ -1,0 +1,806 @@
+name,category,price,quantity
+Atlas Hammer Pro,Hand Tools,24.99,18
+Nova Drill 18V,Power Tools,149.0,9
+Precision Screw Set,Fasteners,17.5,42
+AquaFlow Pipe Kit,Plumbing,68.75,14
+VoltGuard Multimeter,Electrical,89.99,11
+ShieldSafe Gloves,Safety,12.25,60
+EarthTone Paint Duo,Paint,33.4,25
+BondFlex Adhesive,Adhesives,21.6,30
+IronClad Brackets,Hardware,15.85,55
+GreenLeaf Pruner,Garden,44.2,16
+Steel Tape Measure,Measuring Tools,8.99,75
+Digital Caliper,Measuring Tools,29.95,22
+Angle Grinder,Power Tools,79.5,8
+Circular Saw,Power Tools,120.0,6
+Jigsaw,Power Tools,65.25,12
+Impact Driver,Power Tools,89.99,15
+Socket Set,Hand Tools,45.3,28
+Wrench Set,Hand Tools,32.75,35
+Pliers Set,Hand Tools,28.5,40
+Screwdriver Kit,Hand Tools,19.99,50
+PVC Pipe 1/2",Plumbing,4.25,200
+PVC Pipe 3/4",Plumbing,5.75,180
+PVC Pipe 1",Plumbing,7.25,150
+Copper Pipe 1/2",Plumbing,12.5,80
+Copper Pipe 3/4",Plumbing,15.75,70
+Pipe Cutter,Plumbing,18.99,25
+Pipe Wrench,Plumbing,24.5,30
+Teflon Tape,Plumbing,2.99,300
+Pipe Fittings Kit,Plumbing,22.4,45
+Wire Stripper,Electrical,14.75,65
+Crimping Tool,Electrical,19.25,40
+Voltage Tester,Electrical,11.99,85
+Circuit Breaker,Electrical,8.5,120
+Electrical Tape,Electrical,3.25,400
+Wire Nuts,Electrical,5.99,250
+LED Bulbs,Electrical,4.5,500
+Extension Cord,Electrical,15.25,90
+Safety Glasses,Safety,6.99,200
+Hard Hat,Safety,18.5,75
+Ear Protection,Safety,12.25,110
+Respirator Mask,Safety,8.75,180
+Safety Vest,Safety,14.99,95
+Work Gloves,Safety,9.5,300
+Fire Extinguisher,Safety,35.0,40
+First Aid Kit,Safety,24.99,35
+Latex Paint White,Paint,25.5,60
+Latex Paint Beige,Paint,26.25,55
+Latex Paint Gray,Paint,26.75,50
+Oil Paint Black,Paint,18.99,70
+Oil Paint White,Paint,19.5,65
+Paint Brushes Set,Paint,22.4,80
+Paint Roller Kit,Paint,15.75,120
+Paint Tray,Paint,3.99,200
+Drop Cloth,Paint,12.25,90
+Paint Thinner,Paint,8.5,150
+Wood Glue,Adhesives,6.99,300
+Super Glue,Adhesives,4.25,500
+Epoxy Resin,Adhesives,12.75,120
+Construction Adhesive,Adhesives,9.99,180
+Double-Sided Tape,Adhesives,5.5,400
+Nails Assorted,Fasteners,7.25,1000
+Screws Assorted,Fasteners,8.5,800
+Bolts Assorted,Fasteners,9.75,600
+Washers Assorted,Fasteners,4.99,1200
+Anchors,Fasteners,6.25,900
+Hinges,Hardware,3.99,500
+Drawer Pulls,Hardware,2.5,800
+Cabinet Knobs,Hardware,1.99,1000
+Door Handle,Hardware,8.75,300
+Lock Set,Hardware,24.99,150
+Garden Hose,Garden,22.5,75
+Sprinkler,Garden,15.99,120
+Watering Can,Garden,12.25,180
+Gardening Trowel,Garden,8.5,250
+Pruning Shears,Garden,18.75,95
+Lawn Mower,Garden,249.0,15
+String Trimmer,Garden,89.99,25
+Hedge Trimmer,Garden,65.5,30
+Garden Rake,Garden,14.99,150
+Wheelbarrow,Garden,79.5,40
+Level,Measuring Tools,12.5,200
+Laser Level,Measuring Tools,45.0,35
+Stud Finder,Measuring Tools,18.99,120
+Moisture Meter,Measuring Tools,29.75,60
+Thermometer,Measuring Tools,15.25,180
+Drill Bits Set,Power Tools Accessories,24.99,300
+Saw Blades,Power Tools Accessories,18.5,250
+Sanding Discs,Power Tools Accessories,12.75,400
+Router Bits,Power Tools Accessories,22.4,150
+Battery Pack,Power Tools Accessories,49.99,80
+Charger,Power Tools Accessories,29.5,120
+Tool Bag,Storage,34.99,90
+Tool Box,Storage,45.5,70
+Storage Bin,Storage,12.25,300
+Shelf Bracket,Storage,4.99,600
+Utility Knife,Cutting Tools,7.25,500
+Box Cutter,Cutting Tools,5.99,450
+Scissors,Cutting Tools,8.5,350
+Glass Cutter,Cutting Tools,12.25,120
+Tile Cutter,Cutting Tools,35.0,60
+Caulk Gun,Sealing Tools,9.99,280
+Caulk,Sealing Tools,4.5,600
+Spackle,Sealing Tools,6.75,400
+Putty Knife,Sealing Tools,5.25,500
+Sandpaper,Abrasives,8.99,800
+Steel Wool,Abrasives,3.25,1000
+Grinding Wheel,Abrasives,12.5,350
+Wire Brush,Abrasives,6.75,450
+Ladder,Safety Equipment,89.99,40
+Scaffolding,Safety Equipment,199.0,20
+Knee Pads,Safety Equipment,14.25,180
+Tool Belt,Safety Equipment,22.5,120
+Work Boots,Safety Equipment,65.0,80
+Generator,Power Equipment,399.0,12
+Air Compressor,Power Equipment,189.5,18
+Pressure Washer,Power Equipment,159.0,22
+Welding Machine,Power Equipment,299.0,8
+Battery Tester,Electrical,19.99,150
+Multimeter Case,Electrical,12.5,200
+Insulation Tester,Electrical,45.0,45
+Cable Ties,Electrical,2.99,1000
+Conduit,Electrical,6.75,600
+Junction Box,Electrical,4.25,800
+Switch Plate,Electrical,1.99,1200
+Outlet,Electrical,2.5,900
+Light Switch,Electrical,3.25,700
+Dimmer Switch,Electrical,8.99,300
+Ceiling Fan,Electrical,79.5,35
+Light Fixture,Electrical,45.25,60
+Chandelier,Electrical,120.0,15
+Track Lighting,Electrical,65.75,25
+Flood Light,Electrical,22.99,80
+Desk Lamp,Electrical,29.5,90
+Floor Lamp,Electrical,42.25,65
+Table Lamp,Electrical,35.75,75
+LED Strip Lights,Electrical,18.99,200
+Rope Lights,Electrical,24.5,150
+Solar Lights,Electrical,15.75,180
+Motion Sensor,Electrical,12.99,220
+Timer Switch,Electrical,9.5,280
+Surge Protector,Electrical,14.25,350
+Power Strip,Electrical,11.75,400
+USB Charger,Electrical,8.99,500
+Battery Charger,Electrical,19.5,250
+Jump Starter,Electrical,69.99,45
+Inverter,Electrical,89.5,35
+Voltage Regulator,Electrical,34.75,80
+Fuse Box,Electrical,45.0,60
+Circuit Board,Electrical,22.5,120
+Relay,Electrical,8.25,600
+Transformer,Electrical,15.99,300
+Capacitor,Electrical,6.5,700
+Resistor,Electrical,3.25,1000
+Diode,Electrical,2.99,800
+Transistor,Electrical,4.75,600
+IC Chip,Electrical,12.25,400
+Solder,Electrical,7.99,500
+Flux,Electrical,5.5,600
+Soldering Iron,Electrical,24.99,150
+Heat Gun,Electrical,35.5,90
+Hot Glue Gun,Electrical,18.75,180
+Glue Sticks,Electrical,9.99,400
+Cable Management,Electrical,12.5,350
+Wire Loom,Electrical,8.25,450
+Cable Sleeve,Electrical,6.99,500
+Velcro Straps,Electrical,4.5,800
+Zip Ties,Electrical,3.25,1000
+Cable Clips,Electrical,2.99,1200
+Wall Anchor Kit,Hardware,14.99,300
+Picture Hangers,Hardware,5.75,600
+Mirror Mounts,Hardware,8.25,400
+TV Mount,Hardware,29.99,120
+Shelf Standards,Hardware,6.5,700
+Shelf Brackets,Hardware,4.25,900
+Drawer Slides,Hardware,12.75,350
+Cabinet Hinges,Hardware,3.99,800
+Door Stoppers,Hardware,2.25,1000
+Window Locks,Hardware,7.5,450
+Deadbolt,Hardware,18.99,200
+Padlock,Hardware,12.25,350
+Chain Lock,Hardware,15.5,280
+Security Camera,Electrical,89.99,75
+Alarm System,Electrical,199.0,40
+Motion Light,Electrical,34.5,180
+Smart Lock,Electrical,79.5,90
+Video Doorbell,Electrical,129.0,60
+Thermostat,Electrical,45.25,120
+Smart Plug,Electrical,19.99,300
+Home Hub,Electrical,89.0,80
+Sensor Kit,Electrical,34.99,150
+Automation Controller,Electrical,149.0,45
+Irrigation Controller,Garden,79.5,65
+Soil Moisture Sensor,Garden,22.25,180
+Plant Food,Garden,12.99,400
+Fertilizer,Garden,18.5,350
+Pesticide,Garden,14.75,280
+Weed Killer,Garden,16.25,320
+Compost Bin,Garden,45.0,120
+Garden Soil,Garden,8.99,500
+Mulch,Garden,6.5,600
+Landscape Fabric,Garden,12.25,350
+Edging Material,Garden,9.75,400
+Pavers,Garden,1.25,2000
+Retaining Wall Blocks,Garden,2.5,1500
+Deck Boards,Garden,4.99,800
+Railings,Garden,12.75,300
+Deck Screws,Garden,18.5,500
+Stain,Garden,24.99,200
+Sealer,Garden,19.5,250
+Cleaner,Garden,14.25,350
+Pool Chemicals,Outdoor,28.5,180
+Pool Filter,Outdoor,45.0,120
+Pool Pump,Outdoor,189.0,45
+Pool Cover,Outdoor,79.99,80
+Pool Vacuum,Outdoor,129.0,60
+BBQ Grill,Outdoor,199.0,35
+Grill Cover,Outdoor,24.5,150
+Propane Tank,Outdoor,29.99,200
+Charcoal,Outdoor,12.25,400
+Lighter Fluid,Outdoor,8.5,500
+Patio Furniture,Outdoor,299.0,25
+Umbrella,Outdoor,59.5,90
+Outdoor Rug,Outdoor,45.25,120
+Fire Pit,Outdoor,89.99,65
+Hammock,Outdoor,39.5,110
+Bird Feeder,Garden,18.75,180
+Bird Bath,Garden,34.99,95
+Fountain,Garden,79.5,60
+Pond Liner,Garden,45.25,80
+Water Pump,Garden,35.5,120
+Aquarium Filter,Pets,28.99,150
+Fish Food,Pets,12.5,400
+Pet Bed,Pets,34.5,200
+Pet Carrier,Pets,45.25,120
+Leash,Pets,15.75,350
+Collar,Pets,12.25,400
+Food Bowl,Pets,8.99,600
+Water Bowl,Pets,7.5,650
+Pet Toy,Pets,9.25,500
+Grooming Kit,Pets,24.99,180
+Shampoo,Pets,14.5,300
+Flea Treatment,Pets,28.75,250
+Litter Box,Pets,22.5,200
+Cat Tree,Pets,89.99,80
+Scratching Post,Pets,34.5,150
+Dog House,Outdoor,129.0,45
+Kennel,Outdoor,79.5,90
+Training Pads,Pets,18.25,400
+Odor Eliminator,Pets,12.99,350
+Pet Gate,Pets,35.25,180
+Carrier Bag,Pets,24.5,250
+Travel Bowl,Pets,9.75,500
+Pet First Aid,Pets,19.99,200
+Calming Spray,Pets,16.5,280
+Nail Clippers,Pets,12.25,350
+Brush,Pets,14.75,300
+Comb,Pets,11.5,320
+Shedding Tool,Pets,18.99,220
+Dental Chews,Pets,22.5,400
+Treats,Pets,8.99,800
+Rawhide,Pets,15.25,500
+Chew Toys,Pets,12.75,600
+Interactive Toy,Pets,19.5,350
+Puzzle Feeder,Pets,24.99,180
+Automatic Feeder,Pets,45.0,120
+Water Fountain,Pets,35.75,150
+Heated Bed,Pets,42.25,130
+Cooling Mat,Pets,28.5,190
+Life Jacket,Pets,34.99,160
+Booties,Pets,18.5,280
+Raincoat,Pets,24.25,200
+Sweater,Pets,22.5,220
+Costume,Pets,19.99,180
+Bandana,Pets,6.5,600
+ID Tag,Pets,8.25,500
+Microchip,Pets,29.99,120
+GPS Tracker,Pets,79.5,80
+Camera,Pets,129.0,60
+Automatic Litter Box,Pets,199.0,45
+Scales,Pets,34.5,150
+Nail Grinder,Pets,24.99,180
+Toothbrush,Pets,12.5,350
+Toothpaste,Pets,8.75,400
+Ear Cleaner,Pets,9.99,380
+Eye Wipes,Pets,7.25,450
+Paw Balm,Pets,11.25,320
+Coat Supplement,Pets,18.5,280
+Joint Supplement,Pets,24.99,200
+Vitamins,Pets,16.75,350
+Probiotics,Pets,22.5,250
+Flea Collar,Pets,19.99,300
+Tick Remover,Pets,8.5,500
+Mat Splitter,Pets,14.25,280
+De-shedding Tool,Pets,28.5,180
+Grooming Table,Pets,89.99,80
+Dryer,Pets,149.0,45
+Clippers,Pets,79.5,90
+Blades,Pets,24.99,350
+Scissors Set,Pets,45.25,150
+Thinning Shears,Pets,34.5,180
+Comb Set,Pets,18.75,300
+Brushes Set,Pets,22.5,250
+Shampoo Concentrate,Pets,28.99,200
+Conditioner,Pets,24.5,220
+Detangler,Pets,16.75,350
+Cologne,Pets,14.99,400
+Deodorizer,Pets,12.25,450
+Stain Remover,Pets,18.5,300
+Urine Destroyer,Pets,22.99,250
+Poop Bags,Pets,8.99,800
+Dispenser,Pets,12.5,500
+Litter,Pets,19.99,600
+Litter Deodorizer,Pets,9.75,700
+Scoop,Pets,6.5,800
+Mat,Pets,14.25,400
+Furniture Cover,Pets,34.99,180
+Car Seat Cover,Pets,28.5,200
+Seat Belt,Pets,19.75,350
+Ramp,Pets,45.25,120
+Stairs,Pets,59.99,100
+Harness,Pets,24.5,400
+Head Collar,Pets,18.99,350
+Muzzle,Pets,22.75,280
+Training Clicker,Pets,5.99,600
+Whistle,Pets,8.25,500
+Target Stick,Pets,12.5,350
+Agility Set,Pets,89.5,80
+Tunnel,Pets,34.99,150
+Weave Poles,Pets,45.25,120
+Jump Bar,Pets,28.5,180
+Pause Table,Pets,39.99,130
+Tire Jump,Pets,52.5,100
+Dog Walk,Pets,79.5,75
+A-Frame,Pets,129.0,60
+See-Saw,Pets,89.99,80
+Spread Jump,Pets,45.25,150
+Ring Set,Pets,24.99,250
+Cone Set,Pets,18.5,300
+Flag Set,Pets,22.75,220
+Numbered Discs,Pets,14.99,350
+Training Book,Pets,12.5,400
+DVD,Pets,19.99,280
+Online Course,Pets,49.5,200
+Private Lesson,Pets,79.99,150
+Group Class,Pets,34.5,250
+Obedience Kit,Pets,89.25,120
+Trick Kit,Pets,45.75,180
+Scent Work Kit,Pets,59.99,130
+Tracking Kit,Pets,69.5,110
+Protection Gear,Pets,199.0,60
+Bite Sleeve,Pets,149.0,75
+Tug Toy,Pets,18.5,500
+Ball Launcher,Pets,34.99,180
+Frisbee,Pets,12.25,400
+Ball,Pets,8.99,800
+Rope Toy,Pets,9.5,600
+Squeaky Toy,Pets,7.25,700
+Plush Toy,Pets,11.99,500
+Rubber Toy,Pets,14.5,450
+Interactive Ball,Pets,24.99,300
+Treat Dispenser,Pets,19.75,350
+Puzzle Toy,Pets,22.5,280
+Snuffle Mat,Pets,28.99,200
+Lick Mat,Pets,15.25,400
+Kong Toy,Pets,18.5,450
+Stuffing,Pets,12.99,500
+Dental Toy,Pets,16.75,380
+Massage Tool,Pets,24.5,250
+Acupressure Mat,Pets,34.99,180
+Calming Vest,Pets,45.25,150
+Thunder Shirt,Pets,39.99,160
+Anxiety Wrap,Pets,42.5,140
+Calming Diffuser,Pets,28.75,220
+Spray,Pets,19.99,350
+Collar Insert,Pets,14.5,400
+Treat,Pets,22.25,600
+Supplements,Pets,34.99,300
+First Aid Kit,Pets,45.5,200
+Emergency Kit,Pets,79.99,120
+Travel Kit,Pets,34.25,250
+Grooming Kit,Pets,89.5,150
+Dental Kit,Pets,39.99,180
+Ear Care Kit,Pets,24.5,280
+Eye Care Kit,Pets,19.75,320
+Paw Care Kit,Pets,28.99,220
+Skin Care Kit,Pets,35.25,200
+Coat Care Kit,Pets,42.5,180
+Joint Care Kit,Pets,59.99,150
+Senior Care Kit,Pets,69.5,130
+Puppy Kit,Pets,79.25,120
+Kitten Kit,Pets,74.99,110
+Small Animal Kit,Pets,45.5,180
+Bird Kit,Pets,39.99,150
+Reptile Kit,Pets,54.25,120
+Fish Kit,Pets,49.5,130
+Ferret Kit,Pets,44.99,140
+Rabbit Kit,Pets,38.5,160
+Guinea Pig Kit,Pets,35.25,170
+Hamster Kit,Pets,32.99,180
+Chinchilla Kit,Pets,42.5,150
+Hedgehog Kit,Pets,47.99,130
+Sugar Glider Kit,Pets,59.5,110
+name,category,price,quantity
+Atlas Hammer Pro,Hand Tools,24.99,18
+Nova Drill 18V,Power Tools,149.0,9
+Precision Screw Set,Fasteners,17.5,42
+AquaFlow Pipe Kit,Plumbing,68.75,14
+VoltGuard Multimeter,Electrical,89.99,11
+ShieldSafe Gloves,Safety,12.25,60
+EarthTone Paint Duo,Paint,33.4,25
+BondFlex Adhesive,Adhesives,21.6,30
+IronClad Brackets,Hardware,15.85,55
+GreenLeaf Pruner,Garden,44.2,16
+Steel Tape Measure,Measuring Tools,8.99,75
+Digital Caliper,Measuring Tools,29.95,22
+Angle Grinder,Power Tools,79.5,8
+Circular Saw,Power Tools,120.0,6
+Jigsaw,Power Tools,65.25,12
+Impact Driver,Power Tools,89.99,15
+Socket Set,Hand Tools,45.3,28
+Wrench Set,Hand Tools,32.75,35
+Pliers Set,Hand Tools,28.5,40
+Screwdriver Kit,Hand Tools,19.99,50
+PVC Pipe 1/2",Plumbing,4.25,200
+PVC Pipe 3/4",Plumbing,5.75,180
+PVC Pipe 1",Plumbing,7.25,150
+Copper Pipe 1/2",Plumbing,12.5,80
+Copper Pipe 3/4",Plumbing,15.75,70
+Pipe Cutter,Plumbing,18.99,25
+Pipe Wrench,Plumbing,24.5,30
+Teflon Tape,Plumbing,2.99,300
+Pipe Fittings Kit,Plumbing,22.4,45
+Wire Stripper,Electrical,14.75,65
+Crimping Tool,Electrical,19.25,40
+Voltage Tester,Electrical,11.99,85
+Circuit Breaker,Electrical,8.5,120
+Electrical Tape,Electrical,3.25,400
+Wire Nuts,Electrical,5.99,250
+LED Bulbs,Electrical,4.5,500
+Extension Cord,Electrical,15.25,90
+Safety Glasses,Safety,6.99,200
+Hard Hat,Safety,18.5,75
+Ear Protection,Safety,12.25,110
+Respirator Mask,Safety,8.75,180
+Safety Vest,Safety,14.99,95
+Work Gloves,Safety,9.5,300
+Fire Extinguisher,Safety,35.0,40
+First Aid Kit,Safety,24.99,35
+Latex Paint White,Paint,25.5,60
+Latex Paint Beige,Paint,26.25,55
+Latex Paint Gray,Paint,26.75,50
+Oil Paint Black,Paint,18.99,70
+Oil Paint White,Paint,19.5,65
+Paint Brushes Set,Paint,22.4,80
+Paint Roller Kit,Paint,15.75,120
+Paint Tray,Paint,3.99,200
+Drop Cloth,Paint,12.25,90
+Paint Thinner,Paint,8.5,150
+Wood Glue,Adhesives,6.99,300
+Super Glue,Adhesives,4.25,500
+Epoxy Resin,Adhesives,12.75,120
+Construction Adhesive,Adhesives,9.99,180
+Double-Sided Tape,Adhesives,5.5,400
+Nails Assorted,Fasteners,7.25,1000
+Screws Assorted,Fasteners,8.5,800
+Bolts Assorted,Fasteners,9.75,600
+Washers Assorted,Fasteners,4.99,1200
+Anchors,Fasteners,6.25,900
+Hinges,Hardware,3.99,500
+Drawer Pulls,Hardware,2.5,800
+Cabinet Knobs,Hardware,1.99,1000
+Door Handle,Hardware,8.75,300
+Lock Set,Hardware,24.99,150
+Garden Hose,Garden,22.5,75
+Sprinkler,Garden,15.99,120
+Watering Can,Garden,12.25,180
+Gardening Trowel,Garden,8.5,250
+Pruning Shears,Garden,18.75,95
+Lawn Mower,Garden,249.0,15
+String Trimmer,Garden,89.99,25
+Hedge Trimmer,Garden,65.5,30
+Garden Rake,Garden,14.99,150
+Wheelbarrow,Garden,79.5,40
+Level,Measuring Tools,12.5,200
+Laser Level,Measuring Tools,45.0,35
+Stud Finder,Measuring Tools,18.99,120
+Moisture Meter,Measuring Tools,29.75,60
+Thermometer,Measuring Tools,15.25,180
+Drill Bits Set,Power Tools Accessories,24.99,300
+Saw Blades,Power Tools Accessories,18.5,250
+Sanding Discs,Power Tools Accessories,12.75,400
+Router Bits,Power Tools Accessories,22.4,150
+Battery Pack,Power Tools Accessories,49.99,80
+Charger,Power Tools Accessories,29.5,120
+Tool Bag,Storage,34.99,90
+Tool Box,Storage,45.5,70
+Storage Bin,Storage,12.25,300
+Shelf Bracket,Storage,4.99,600
+Utility Knife,Cutting Tools,7.25,500
+Box Cutter,Cutting Tools,5.99,450
+Scissors,Cutting Tools,8.5,350
+Glass Cutter,Cutting Tools,12.25,120
+Tile Cutter,Cutting Tools,35.0,60
+Caulk Gun,Sealing Tools,9.99,280
+Caulk,Sealing Tools,4.5,600
+Spackle,Sealing Tools,6.75,400
+Putty Knife,Sealing Tools,5.25,500
+Sandpaper,Abrasives,8.99,800
+Steel Wool,Abrasives,3.25,1000
+Grinding Wheel,Abrasives,12.5,350
+Wire Brush,Abrasives,6.75,450
+Ladder,Safety Equipment,89.99,40
+Scaffolding,Safety Equipment,199.0,20
+Knee Pads,Safety Equipment,14.25,180
+Tool Belt,Safety Equipment,22.5,120
+Work Boots,Safety Equipment,65.0,80
+Generator,Power Equipment,399.0,12
+Air Compressor,Power Equipment,189.5,18
+Pressure Washer,Power Equipment,159.0,22
+Welding Machine,Power Equipment,299.0,8
+Battery Tester,Electrical,19.99,150
+Multimeter Case,Electrical,12.5,200
+Insulation Tester,Electrical,45.0,45
+Cable Ties,Electrical,2.99,1000
+Conduit,Electrical,6.75,600
+Junction Box,Electrical,4.25,800
+Switch Plate,Electrical,1.99,1200
+Outlet,Electrical,2.5,900
+Light Switch,Electrical,3.25,700
+Dimmer Switch,Electrical,8.99,300
+Ceiling Fan,Electrical,79.5,35
+Light Fixture,Electrical,45.25,60
+Chandelier,Electrical,120.0,15
+Track Lighting,Electrical,65.75,25
+Flood Light,Electrical,22.99,80
+Desk Lamp,Electrical,29.5,90
+Floor Lamp,Electrical,42.25,65
+Table Lamp,Electrical,35.75,75
+LED Strip Lights,Electrical,18.99,200
+Rope Lights,Electrical,24.5,150
+Solar Lights,Electrical,15.75,180
+Motion Sensor,Electrical,12.99,220
+Timer Switch,Electrical,9.5,280
+Surge Protector,Electrical,14.25,350
+Power Strip,Electrical,11.75,400
+USB Charger,Electrical,8.99,500
+Battery Charger,Electrical,19.5,250
+Jump Starter,Electrical,69.99,45
+Inverter,Electrical,89.5,35
+Voltage Regulator,Electrical,34.75,80
+Fuse Box,Electrical,45.0,60
+Circuit Board,Electrical,22.5,120
+Relay,Electrical,8.25,600
+Transformer,Electrical,15.99,300
+Capacitor,Electrical,6.5,700
+Resistor,Electrical,3.25,1000
+Diode,Electrical,2.99,800
+Transistor,Electrical,4.75,600
+IC Chip,Electrical,12.25,400
+Solder,Electrical,7.99,500
+Flux,Electrical,5.5,600
+Soldering Iron,Electrical,24.99,150
+Heat Gun,Electrical,35.5,90
+Hot Glue Gun,Electrical,18.75,180
+Glue Sticks,Electrical,9.99,400
+Cable Management,Electrical,12.5,350
+Wire Loom,Electrical,8.25,450
+Cable Sleeve,Electrical,6.99,500
+Velcro Straps,Electrical,4.5,800
+Zip Ties,Electrical,3.25,1000
+Cable Clips,Electrical,2.99,1200
+Wall Anchor Kit,Hardware,14.99,300
+Picture Hangers,Hardware,5.75,600
+Mirror Mounts,Hardware,8.25,400
+TV Mount,Hardware,29.99,120
+Shelf Standards,Hardware,6.5,700
+Shelf Brackets,Hardware,4.25,900
+Drawer Slides,Hardware,12.75,350
+Cabinet Hinges,Hardware,3.99,800
+Door Stoppers,Hardware,2.25,1000
+Window Locks,Hardware,7.5,450
+Deadbolt,Hardware,18.99,200
+Padlock,Hardware,12.25,350
+Chain Lock,Hardware,15.5,280
+Security Camera,Electrical,89.99,75
+Alarm System,Electrical,199.0,40
+Motion Light,Electrical,34.5,180
+Smart Lock,Electrical,79.5,90
+Video Doorbell,Electrical,129.0,60
+Thermostat,Electrical,45.25,120
+Smart Plug,Electrical,19.99,300
+Home Hub,Electrical,89.0,80
+Sensor Kit,Electrical,34.99,150
+Automation Controller,Electrical,149.0,45
+Irrigation Controller,Garden,79.5,65
+Soil Moisture Sensor,Garden,22.25,180
+Plant Food,Garden,12.99,400
+Fertilizer,Garden,18.5,350
+Pesticide,Garden,14.75,280
+Weed Killer,Garden,16.25,320
+Compost Bin,Garden,45.0,120
+Garden Soil,Garden,8.99,500
+Mulch,Garden,6.5,600
+Landscape Fabric,Garden,12.25,350
+Edging Material,Garden,9.75,400
+Pavers,Garden,1.25,2000
+Retaining Wall Blocks,Garden,2.5,1500
+Deck Boards,Garden,4.99,800
+Railings,Garden,12.75,300
+Deck Screws,Garden,18.5,500
+Stain,Garden,24.99,200
+Sealer,Garden,19.5,250
+Cleaner,Garden,14.25,350
+Pool Chemicals,Outdoor,28.5,180
+Pool Filter,Outdoor,45.0,120
+Pool Pump,Outdoor,189.0,45
+Pool Cover,Outdoor,79.99,80
+Pool Vacuum,Outdoor,129.0,60
+BBQ Grill,Outdoor,199.0,35
+Grill Cover,Outdoor,24.5,150
+Propane Tank,Outdoor,29.99,200
+Charcoal,Outdoor,12.25,400
+Lighter Fluid,Outdoor,8.5,500
+Patio Furniture,Outdoor,299.0,25
+Umbrella,Outdoor,59.5,90
+Outdoor Rug,Outdoor,45.25,120
+Fire Pit,Outdoor,89.99,65
+Hammock,Outdoor,39.5,110
+Bird Feeder,Garden,18.75,180
+Bird Bath,Garden,34.99,95
+Fountain,Garden,79.5,60
+Pond Liner,Garden,45.25,80
+Water Pump,Garden,35.5,120
+Aquarium Filter,Pets,28.99,150
+Fish Food,Pets,12.5,400
+Pet Bed,Pets,34.5,200
+Pet Carrier,Pets,45.25,120
+Leash,Pets,15.75,350
+Collar,Pets,12.25,400
+Food Bowl,Pets,8.99,600
+Water Bowl,Pets,7.5,650
+Pet Toy,Pets,9.25,500
+Grooming Kit,Pets,24.99,180
+Shampoo,Pets,14.5,300
+Flea Treatment,Pets,28.75,250
+Litter Box,Pets,22.5,200
+Cat Tree,Pets,89.99,80
+Scratching Post,Pets,34.5,150
+Dog House,Outdoor,129.0,45
+Kennel,Outdoor,79.5,90
+Training Pads,Pets,18.25,400
+Odor Eliminator,Pets,12.99,350
+Pet Gate,Pets,35.25,180
+Carrier Bag,Pets,24.5,250
+Travel Bowl,Pets,9.75,500
+Pet First Aid,Pets,19.99,200
+Calming Spray,Pets,16.5,280
+Nail Clippers,Pets,12.25,350
+Brush,Pets,14.75,300
+Comb,Pets,11.5,320
+Shedding Tool,Pets,18.99,220
+Dental Chews,Pets,22.5,400
+Treats,Pets,8.99,800
+Rawhide,Pets,15.25,500
+Chew Toys,Pets,12.75,600
+Interactive Toy,Pets,19.5,350
+Puzzle Feeder,Pets,24.99,180
+Automatic Feeder,Pets,45.0,120
+Water Fountain,Pets,35.75,150
+Heated Bed,Pets,42.25,130
+Cooling Mat,Pets,28.5,190
+Life Jacket,Pets,34.99,160
+Booties,Pets,18.5,280
+Raincoat,Pets,24.25,200
+Sweater,Pets,22.5,220
+Costume,Pets,19.99,180
+Bandana,Pets,6.5,600
+ID Tag,Pets,8.25,500
+Microchip,Pets,29.99,120
+GPS Tracker,Pets,79.5,80
+Camera,Pets,129.0,60
+Automatic Litter Box,Pets,199.0,45
+Scales,Pets,34.5,150
+Nail Grinder,Pets,24.99,180
+Toothbrush,Pets,12.5,350
+Toothpaste,Pets,8.75,400
+Ear Cleaner,Pets,9.99,380
+Eye Wipes,Pets,7.25,450
+Paw Balm,Pets,11.25,320
+Coat Supplement,Pets,18.5,280
+Joint Supplement,Pets,24.99,200
+Vitamins,Pets,16.75,350
+Probiotics,Pets,22.5,250
+Flea Collar,Pets,19.99,300
+Tick Remover,Pets,8.5,500
+Mat Splitter,Pets,14.25,280
+De-shedding Tool,Pets,28.5,180
+Grooming Table,Pets,89.99,80
+Dryer,Pets,149.0,45
+Clippers,Pets,79.5,90
+Blades,Pets,24.99,350
+Scissors Set,Pets,45.25,150
+Thinning Shears,Pets,34.5,180
+Comb Set,Pets,18.75,300
+Brushes Set,Pets,22.5,250
+Shampoo Concentrate,Pets,28.99,200
+Conditioner,Pets,24.5,220
+Detangler,Pets,16.75,350
+Cologne,Pets,14.99,400
+Deodorizer,Pets,12.25,450
+Stain Remover,Pets,18.5,300
+Urine Destroyer,Pets,22.99,250
+Poop Bags,Pets,8.99,800
+Dispenser,Pets,12.5,500
+Litter,Pets,19.99,600
+Litter Deodorizer,Pets,9.75,700
+Scoop,Pets,6.5,800
+Mat,Pets,14.25,400
+Furniture Cover,Pets,34.99,180
+Car Seat Cover,Pets,28.5,200
+Seat Belt,Pets,19.75,350
+Ramp,Pets,45.25,120
+Stairs,Pets,59.99,100
+Harness,Pets,24.5,400
+Head Collar,Pets,18.99,350
+Muzzle,Pets,22.75,280
+Training Clicker,Pets,5.99,600
+Whistle,Pets,8.25,500
+Target Stick,Pets,12.5,350
+Agility Set,Pets,89.5,80
+Tunnel,Pets,34.99,150
+Weave Poles,Pets,45.25,120
+Jump Bar,Pets,28.5,180
+Pause Table,Pets,39.99,130
+Tire Jump,Pets,52.5,100
+Dog Walk,Pets,79.5,75
+A-Frame,Pets,129.0,60
+See-Saw,Pets,89.99,80
+Spread Jump,Pets,45.25,150
+Ring Set,Pets,24.99,250
+Cone Set,Pets,18.5,300
+Flag Set,Pets,22.75,220
+Numbered Discs,Pets,14.99,350
+Training Book,Pets,12.5,400
+DVD,Pets,19.99,280
+Online Course,Pets,49.5,200
+Private Lesson,Pets,79.99,150
+Group Class,Pets,34.5,250
+Obedience Kit,Pets,89.25,120
+Trick Kit,Pets,45.75,180
+Scent Work Kit,Pets,59.99,130
+Tracking Kit,Pets,69.5,110
+Protection Gear,Pets,199.0,60
+Bite Sleeve,Pets,149.0,75
+Tug Toy,Pets,18.5,500
+Ball Launcher,Pets,34.99,180
+Frisbee,Pets,12.25,400
+Ball,Pets,8.99,800
+Rope Toy,Pets,9.5,600
+Squeaky Toy,Pets,7.25,700
+Plush Toy,Pets,11.99,500
+Rubber Toy,Pets,14.5,450
+Interactive Ball,Pets,24.99,300
+Treat Dispenser,Pets,19.75,350
+Puzzle Toy,Pets,22.5,280
+Snuffle Mat,Pets,28.99,200
+Lick Mat,Pets,15.25,400
+Kong Toy,Pets,18.5,450
+Stuffing,Pets,12.99,500
+Dental Toy,Pets,16.75,380
+Massage Tool,Pets,24.5,250
+Acupressure Mat,Pets,34.99,180
+Calming Vest,Pets,45.25,150
+Thunder Shirt,Pets,39.99,160
+Anxiety Wrap,Pets,42.5,140
+Calming Diffuser,Pets,28.75,220
+Spray,Pets,19.99,350
+Collar Insert,Pets,14.5,400
+Treat,Pets,22.25,600
+Supplements,Pets,34.99,300
+First Aid Kit,Pets,45.5,200
+Emergency Kit,Pets,79.99,120
+Travel Kit,Pets,34.25,250
+Grooming Kit,Pets,89.5,150
+Dental Kit,Pets,39.99,180
+Ear Care Kit,Pets,24.5,280
+Eye Care Kit,Pets,19.75,320
+Paw Care Kit,Pets,28.99,220
+Skin Care Kit,Pets,35.25,200
+Coat Care Kit,Pets,42.5,180
+Joint Care Kit,Pets,59.99,150
+Senior Care Kit,Pets,69.5,130
+Puppy Kit,Pets,79.25,120
+Kitten Kit,Pets,74.99,110
+Small Animal Kit,Pets,45.5,180
+Bird Kit,Pets,39.99,150
+Reptile Kit,Pets,54.25,120
+Fish Kit,Pets,49.5,130
+Ferret Kit,Pets,44.99,140
+Rabbit Kit,Pets,38.5,160
+Guinea Pig Kit,Pets,35.25,170
+Hamster Kit,Pets,32.99,180
+Chinchilla Kit,Pets,42.5,150
+Hedgehog Kit,Pets,47.99,130
+Sugar Glider Kit,Pets,59.5,110

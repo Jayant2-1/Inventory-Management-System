@@ -1,0 +1,53 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Compiled extensions
+*.so
+*.dylib
+*.dll
+*.pyd
+*.o
+*.a
+
+# Build directories
+build/
+core/build/
+dist/
+.eggs/
+*.egg-info/
+
+# Virtual environments
+venv/
+.venv/
+backend/venv/
+.env
+
+# Logs and runtime files
+*.log
+*.pid
+uvicorn.log
+backend/uvicorn.log
+
+# Test and coverage reports
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Frontend dependencies and build artifacts
+frontend/node_modules/
+frontend/dist/
+frontend/.cache/
+
+# Miscellaneous
+*.bak
+*.tmp
+*.orig
